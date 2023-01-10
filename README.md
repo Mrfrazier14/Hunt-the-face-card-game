@@ -38,16 +38,12 @@
     <main>
         <div class="card-container">
             <div class="card-pos-a">
-
             </div>
             <div class="card-pos-b">
-
             </div>
             <div class="card-pos-c">
-
             </div>
             <div class="card-pos-d">
-                
             </div>
         </div>
     </main>
