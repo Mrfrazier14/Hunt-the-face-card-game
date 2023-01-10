@@ -48,11 +48,12 @@
         </div>
     </main>
     <script src="index.js"></script>
-    ![AceSpades](https://user-images.githubusercontent.com/96843977/211479522-f1dfce10-d50f-4725-947f-2dbc118bcd88.png)
+    <p>![AceSpades](https://user-images.githubusercontent.com/96843977/211479522-f1dfce10-d50f-4725-947f-2dbc118bcd88.png)
 ![card-AceSpades](https://user-images.githubusercontent.com/96843977/211479523-1d4701c8-2fb7-4175-8391-302d49fe44b7.png)
 ![card-back-Blue](https://user-images.githubusercontent.com/96843977/211479526-b1be59d2-ceeb-4405-a88f-3e83035ec8ba.png)
 ![card-JackClubs](https://user-images.githubusercontent.com/96843977/211479529-fd561138-fb62-4fbc-b71a-5108b0e37317.png)
 ![card-KingHearts](https://user-images.githubusercontent.com/96843977/211479532-aee8188e-9389-466b-b5ca-1aac350f61c2.png)
 ![card-QueenDiamonds](https://user-images.githubusercontent.com/96843977/211479534-e80bd381-62e6-4ed3-ae30-c3b336c6c38b.png)
+    <p>
 </body>
 </html>
