@@ -11,7 +11,7 @@
 <body>
     <header>
         <div class="header-title-container">
-            <h1>Hunt the Ace</h1>
+            <h1>Hunt the Ace card game</h1>
         </div>
         <div class="header-round-info-container">
             <div class="header-img-container">
